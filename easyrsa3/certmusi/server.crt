@@ -1,0 +1,87 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            d1:74:f0:f6:cc:53:05:84:52:8e:be:71:7d:34:48:64
+        Signature Algorithm: sha256WithRSAEncryption
+        Issuer: CN=musimundo.com
+        Validity
+            Not Before: Jun 17 14:52:09 2023 GMT
+            Not After : Sep 19 14:52:09 2025 GMT
+        Subject: CN=server
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:a1:60:73:56:60:d1:21:61:15:20:25:18:ca:b9:
+                    38:82:94:8b:75:66:fe:ea:df:ca:c4:e0:90:91:d0:
+                    74:0a:0d:28:59:7b:32:07:9f:df:68:f1:d8:b3:57:
+                    02:13:b5:e5:52:17:ea:dd:89:29:aa:9e:1e:d2:ff:
+                    8a:38:d4:31:a1:69:40:8a:aa:0c:7a:c0:c4:ef:d6:
+                    ae:30:de:9c:d4:65:e0:f1:2c:6c:e0:63:00:70:11:
+                    61:c0:1c:01:37:27:20:23:1f:a5:11:a3:6f:df:e4:
+                    dd:47:32:f7:a6:d7:9e:49:c0:06:29:b7:a3:a5:b3:
+                    11:92:b6:36:3a:37:d1:2d:81:2c:b4:af:7c:95:7e:
+                    b6:47:ce:0b:aa:26:16:b9:e2:44:b4:cf:b1:76:99:
+                    e7:27:e3:65:39:63:cf:27:ce:b7:31:f4:d6:ff:a7:
+                    8f:56:e9:63:5f:05:0a:9a:53:5f:fb:ed:48:0d:67:
+                    a3:ba:0d:2f:32:00:92:17:c6:57:28:b4:73:c9:96:
+                    27:43:28:45:6c:3e:a7:e1:ed:7c:51:1a:e2:4e:2b:
+                    b5:77:a2:fb:a0:d8:e0:71:2e:d3:fe:d0:3d:76:c4:
+                    50:49:3b:bf:0d:8a:20:13:f9:49:37:77:4f:0a:9b:
+                    67:b1:bc:97:5f:f8:96:64:7f:2a:d9:41:e7:1a:29:
+                    c0:57
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                8D:F6:74:0E:EB:3E:80:C7:FD:B2:12:72:69:A6:D7:BB:F6:6F:78:1E
+            X509v3 Authority Key Identifier: 
+                keyid:F3:77:F9:D0:FB:5E:23:71:7D:F6:81:4D:2D:39:FA:2F:52:9C:73:32
+                DirName:/CN=musimundo.com
+                serial:7A:09:16:F9:3D:49:95:F7:43:F2:4D:DF:CE:6B:8E:89:55:27:35:9D
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:server
+    Signature Algorithm: sha256WithRSAEncryption
+         95:1f:3c:16:ba:99:55:e7:8a:77:7c:fe:00:5e:db:7b:92:08:
+         2a:8b:82:4b:65:30:c6:b6:d7:b3:1f:a4:77:28:a4:c5:48:2a:
+         2e:6d:5f:3a:7e:92:e3:06:14:47:69:92:a7:cc:ea:d3:83:dc:
+         b1:dd:b3:64:a1:9e:7a:0d:c8:8d:be:1c:66:c4:61:7a:50:86:
+         9d:8b:07:40:77:9a:58:9c:96:7d:0a:8a:73:15:1c:eb:a7:00:
+         d2:31:57:e9:0d:0a:08:7d:af:61:ef:77:99:2b:ce:31:84:94:
+         15:e1:8e:e2:02:30:4b:e9:6f:d5:8a:4a:72:de:32:0f:f0:1e:
+         dd:38:cd:6d:16:3e:e1:f8:1b:e5:6f:36:8e:27:32:1e:fd:bd:
+         bd:6c:de:2d:da:c4:3f:3e:a2:08:9d:ed:8c:18:42:cf:70:0d:
+         dd:35:01:c5:3c:78:e9:73:31:4f:e2:ba:00:db:6e:58:85:c5:
+         f3:7d:31:16:2e:54:c6:f8:ae:c3:16:d7:18:2b:b2:a3:bd:c4:
+         1a:cf:73:1a:55:4f:57:0b:11:e6:6e:a8:7a:e5:07:29:37:12:
+         ee:a0:b7:85:28:a0:44:ca:3b:24:27:e6:81:a5:67:43:0e:45:
+         fc:48:bc:92:b4:43:25:7f:06:2c:34:17:ca:9c:81:3d:3f:44:
+         d7:5a:b3:a7
+-----BEGIN CERTIFICATE-----
+MIIDbDCCAlSgAwIBAgIRANF08PbMUwWEUo6+cX00SGQwDQYJKoZIhvcNAQELBQAw
+GDEWMBQGA1UEAwwNbXVzaW11bmRvLmNvbTAeFw0yMzA2MTcxNDUyMDlaFw0yNTA5
+MTkxNDUyMDlaMBExDzANBgNVBAMMBnNlcnZlcjCCASIwDQYJKoZIhvcNAQEBBQAD
+ggEPADCCAQoCggEBAKFgc1Zg0SFhFSAlGMq5OIKUi3Vm/urfysTgkJHQdAoNKFl7
+Mgef32jx2LNXAhO15VIX6t2JKaqeHtL/ijjUMaFpQIqqDHrAxO/WrjDenNRl4PEs
+bOBjAHARYcAcATcnICMfpRGjb9/k3Ucy96bXnknABim3o6WzEZK2Njo30S2BLLSv
+fJV+tkfOC6omFrniRLTPsXaZ5yfjZTljzyfOtzH01v+nj1bpY18FCppTX/vtSA1n
+o7oNLzIAkhfGVyi0c8mWJ0MoRWw+p+HtfFEa4k4rtXei+6DY4HEu0/7QPXbEUEk7
+vw2KIBP5STd3TwqbZ7G8l1/4lmR/KtlB5xopwFcCAwEAAaOBtzCBtDAJBgNVHRME
+AjAAMB0GA1UdDgQWBBSN9nQO6z6Ax/2yEnJppte79m94HjBTBgNVHSMETDBKgBTz
+d/nQ+14jcX32gU0tOfovUpxzMqEcpBowGDEWMBQGA1UEAwwNbXVzaW11bmRvLmNv
+bYIUegkW+T1JlfdD8k3fzmuOiVUnNZ0wEwYDVR0lBAwwCgYIKwYBBQUHAwEwCwYD
+VR0PBAQDAgWgMBEGA1UdEQQKMAiCBnNlcnZlcjANBgkqhkiG9w0BAQsFAAOCAQEA
+lR88FrqZVeeKd3z+AF7be5IIKouCS2UwxrbXsx+kdyikxUgqLm1fOn6S4wYUR2mS
+p8zq04Pcsd2zZKGeeg3Ijb4cZsRhelCGnYsHQHeaWJyWfQqKcxUc66cA0jFX6Q0K
+CH2vYe93mSvOMYSUFeGO4gIwS+lv1YpKct4yD/Ae3TjNbRY+4fgb5W82jicyHv29
+vWzeLdrEPz6iCJ3tjBhCz3AN3TUBxTx46XMxT+K6ANtuWIXF830xFi5UxviuwxbX
+GCuyo73EGs9zGlVPVwsR5m6oeuUHKTcS7qC3hSigRMo7JCfmgaVnQw5F/Ei8krRD
+JX8GLDQXypyBPT9E11qzpw==
+-----END CERTIFICATE-----
